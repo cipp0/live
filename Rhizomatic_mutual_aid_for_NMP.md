@@ -1,6 +1,8 @@
 # Rhizomatic mutual aid for Networked Music Performance
 _By BitNet01 and Audio Hacklab_
 
+![mutuo-soccorso-rizomatico](mutuo-soccorso-rizomatico.png)
+
 We are experiencing a dystopian reality that until a few months ago we could only trace in some sci-fi movies.
 
 The body becomes obsolete, through the epidemic, all life enters a purely cognitive dimension. Individuals alternate between the risk of contagion due to the obligation to go to work and continue to produce, smart-working on platforms with algorithms that calculate the percentage of attention and find forms of home entertainment.
